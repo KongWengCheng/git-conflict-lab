@@ -1,2 +1,2 @@
 # git-conflict-lab
-Line written by Account A
+Another Line written by Account A
