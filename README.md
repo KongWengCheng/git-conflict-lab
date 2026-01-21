@@ -1,3 +1,2 @@
 # git-conflict-lab
-Feature written by Account A
-Feature written by Account B
+This line is added via a Pull Request.
